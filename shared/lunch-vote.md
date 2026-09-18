@@ -12,4 +12,3 @@
 | --- | --- |
 | example-yamada | 21F のカレー |
 | example-suzuki | 向かいのラーメン |
-| example-tanaka | 地下の立ち食いそば（※未確認） |
